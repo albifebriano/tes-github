@@ -5,4 +5,7 @@ Rencana Belajar
 -javascript dom
 -Rest API
 -git and github
+-node js
+-framework js
+ ^vue js
 -etikal hacking
