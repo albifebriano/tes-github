@@ -5,4 +5,6 @@ Rencana Belajar
 -javascript dom
 -Rest API
 -git and github
--etikal hacking
+-framework js
+ ^Angular
+ ^react
