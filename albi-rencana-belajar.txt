@@ -6,4 +6,6 @@ Rencana Belajar
 -Rest API
 -git and github
 -node js
+-framework js
+ ^vue js
 -etikal hacking
