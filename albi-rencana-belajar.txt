@@ -1,0 +1,7 @@
+Rencana Belajar
+
+-javascript dasar
+-lanjutan
+-javascript dom
+-Rest API
+-git and github
